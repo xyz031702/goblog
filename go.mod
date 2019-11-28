@@ -31,7 +31,8 @@ require (
 	golang.org/x/net v0.0.0-20190611141213-3f473d35a33a // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
-	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
+	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect’
+	github.com/gin-gonic/gin v0.4
 )
 
 //replace github.com/ilibs/gosql v1.1.2 => /Users/fifsky/wwwroot/go/library/src/github.com/ilibs/gosql
